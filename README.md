@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,go,react,typescript,nodejs,express,postgresql,tailwind,aws,prisma,docker,solidity,langchain,firebase,redis,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=go,typescript,javascript,nextjs,react,nodejs,express,postgresql,tailwind,aws,prisma,docker,langchain,firebase,redis&perline=7" />
   <br>
 </div>
 
