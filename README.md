@@ -12,9 +12,8 @@
     
 👨🏻‍💻 I'm currently building **Adtua** 
  
-🌱 I’m currently exploring **Backend** 
+🌱 I’m currently on the **Backend** 
     
-🎮 Part-time gamer, full-time developer
 
 📍 Location: **California, USA**
 <div> 
@@ -33,7 +32,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,express,postgresql,tailwind,aws,prisma,docker,solidity,langchain,firebase,redis,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=nextjs,go,react,typescript,nodejs,express,postgresql,tailwind,aws,prisma,docker,solidity,langchain,firebase,redis,figma&perline=7" />
   <br>
 </div>
 
