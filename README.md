@@ -37,18 +37,7 @@
 </div>
 
 <br/><br /><br />
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <a href="https://github.com/shubhampatil-7">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampatil-7&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&theme=tokyonight" width="100%" height="275px" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <a href="https://github.com/shubhampatil-7/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhampatil-7&theme=tokyo-night" alt="GitHub Activity Graph" />
