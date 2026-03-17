@@ -39,24 +39,6 @@
 <br/><br /><br />
 
 
-<a href="https://github.com/shubhampatil-7/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhampatil-7&theme=tokyo-night" alt="GitHub Activity Graph" />
-</a>
-
-<div align="center">
-  <picture>
-    <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shubhampatil-7/shubhampatil-7/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shubhampatil-7/shubhampatil-7/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-  <br/><br/><br/>
-</div>
-
 
 
 <!--
