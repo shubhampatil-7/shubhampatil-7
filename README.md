@@ -12,7 +12,7 @@
     
 👨🏻‍💻 I'm currently building **Adtua** 
  
-🌱 I’m currently on the **Backend** 
+🌱 Currently on the **Backend** 
     
 
 📍 Location: **California, USA**
