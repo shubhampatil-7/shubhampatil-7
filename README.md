@@ -10,9 +10,9 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 <br /><br />
     
-👨🏻‍💻 I'm currently building **Adtua** 
+👨🏻‍💻 Team Lead @ Corp-Corp
  
-🌱 Currently on the **Backend** 
+🌱 I love **Backend Stuff**
     
 
 📍 Location: **USA**
